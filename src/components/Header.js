@@ -14,9 +14,6 @@ function Header() {
         <p>Mergulhe no domínio deslumbrante de todos os personagens clássicos que você ama</p>
     </div>
 
-    <div>
-        <input placeholder="Procure por heróis"></input>
-    </div>
 
     </header>
   );
