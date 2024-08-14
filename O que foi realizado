@@ -1,0 +1,19 @@
+Funcionalidades implementadas: 
+
+  - Exibir os 20 primeiros resultados da API; // feito
+  - Permitir filtrar por nome, pelo campo de busca; // feito
+  - Permitir mostrar apenas os personagens favoritos; //feito
+  - Permitir o usuário favoritar/desfavoritar até 5 personagens; //feito 
+
+- Página de detalhe do personagem:
+  - Exibir dados do personagem; feito
+  - Exibir últimos 10 quadrinhos lançados deste personagem (onSaleDate); //feito
+  - Permitir o usuário favoritar/desfavoritar (dentro do limite de 5). //feito
+
+Extras:
+- Persistir os dados de favoritos (para manter os dados após o reload da página);
+- Adição de cache para manter a API salva localmente, assim evitando novas requisições sempre que a página fosse recarregada.
+
+
+Não realizado:
+ - Permitir ordenação por nome do personagem; // não realizado por motivo de ja vir em ordem alfabética, única solução que me veio a mente foi intencionalmente desorganizar a API, acabei focando nas outras partes.
